@@ -1,0 +1,1 @@
+348755a48475d4b3e8dab20ad3100a08e693e283d3ae85467b9ab174617d34a3  bridge_contract_cosmos.wasm

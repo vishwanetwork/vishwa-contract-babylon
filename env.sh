@@ -1,0 +1,7 @@
+export homeDir="$HOME/.babylond"
+export chainId="euphrates-0.5.0"
+export feeToken="ubbn"
+export key="test-spending-key"
+export keyringBackend="--keyring-backend=test"
+export nodeUrl="https://rpc-euphrates.devnet.babylonlabs.io"
+export apiUrl="https://lcd-euphrates.devnet.babylonlabs.io"
